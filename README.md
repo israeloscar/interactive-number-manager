@@ -52,13 +52,13 @@ Além disso, o menu foi estruturado de forma interativa, permitindo navegar entr
 ## ▶️ Como executar
 
 1. Compile o código:
-
+```bash
     javac Main.java
-
-2. Execute:
-
+```
+3. Execute:
+```bash
     java Main
-
+```
 ---
 
 ## 📌 Observações
